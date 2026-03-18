@@ -1,58 +1,38 @@
-# SplitHash Roadmap
+Stage 1
 
-## Phase 1 — Project Foundation
+Blockchain core preparation
 
-- Project concept and blockchain architecture design  
-- Development of the SplitHash core blockchain  
-- Genesis block generation  
-- Open source repository launch on GitHub  
-- Publication of ANN thread on Bitcointalk  
-- Launch of the official website  
+Genesis block creation
 
----
+Public release of source code
 
-## Phase 2 — Network Launch
+Website publication
 
-- SplitHash mainnet launch  
-- Public node network activation  
-- Release of desktop wallets (Windows / Linux)  
-- Mining pool infrastructure deployment  
-- Block explorer launch  
-- GPU mining optimization  
+Stage 2
 
----
+Mainnet activation
 
-## Phase 3 — Ecosystem Growth
+Public mining support
 
-- Mobile wallet development (Android / iOS)  
-- Integration with hardware wallets  
-- Community governance voting system  
-- Expansion of global mining pools  
-- Developer SDK release for third-party applications  
+Explorer deployment
 
----
+Wallet package release
 
-## Phase 4 — Exchange Integration
+Stage 3
 
-- Listings on community cryptocurrency exchanges  
-- Liquidity pool development  
-- Merchant payment tools and integrations  
-- Web wallet release  
+Infrastructure expansion
 
----
+Additional node distribution
 
-## Phase 5 — Advanced Technology
+Performance and sync improvements
 
-- Cross-chain bridge development  
-- Layer-2 scalability solutions  
-- Smart contract compatibility research  
-- Decentralized application ecosystem development  
+Ecosystem tooling
 
----
+Summary
 
-## Phase 6 — Global Adoption
+Typiq is a decentralized RandomX cryptocurrency centered on fair access, CPU mining, and transparent launch conditions.
 
-- Strategic partnerships with blockchain projects  
-- Integration with payment gateways  
-- Listings on major exchanges  
-- Expansion of the global SplitHash community
+The project aims to provide a practical mining network where participation is broad, network rules are clear, and distribution happens through Proof-of-Work from the very beginning.
+
+Typiq — Accessible Mining. Transparent Launch. Decentralized Network.
+
